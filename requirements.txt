@@ -1,0 +1,4 @@
+tqdm
+shutil
+youtube_dl
+speech_recognition
